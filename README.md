@@ -5,3 +5,5 @@ Source for this design: https://oshwlab.com/kris.garrein/trs-80-model-x-composit
 I have made some minor changes to this.
 
 This may not work on all composite TV/monitors but should work on most.
+
+![image](https://github.com/user-attachments/assets/665472db-61a4-4866-a71b-84e3ab0c91ec)
